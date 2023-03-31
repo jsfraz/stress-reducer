@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="cz.writebyte.stress_reducer">
+    package="cz.jsfraz.stress_reducer">
    <application
         android:label="Stress Reducer"
         android:name="${applicationName}"
